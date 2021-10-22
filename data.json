@@ -1,9 +1,3 @@
 {
-    "passwords": [
-        {
-            "username": "test",
-            "password": "test",
-            "website": "test"
-        }
-    ]
+    "passwords": []
 }
